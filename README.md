@@ -6,21 +6,21 @@ OpenAI Gym is a toolkit for developing and comparing reinforcement learning algo
 ```composer
 "require": {
     // ...
-    "harjinderbali01/laravel-open-ai": "*",
+    "harjinderbali01/laravelopenai": "*",
     // ...
 },
 "repositories": [
     {
-        "name": "harjinderbali01/laravel-open-ai",
+        "name": "harjinderbali01/laravelopenai",
         "type": "vcs",
-        "url": "git@github.com:harjinderbali01/laravel-open-ai.git"
+        "url": "git@github.com:harjinderbali01/laravelopenai.git"
     }
 ]
 ```
 
 ## Installation
 ```bash
- $ composer require harjinderbali01/laravel-open-ai
+ $ composer require harjinderbali01/laravelopenai
 ```
 
 ## Configuration

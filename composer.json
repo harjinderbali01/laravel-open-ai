@@ -1,5 +1,5 @@
 {
-  "name": "harjinderbali01/laravel-open-ai",
+  "name": "harjinderbali01/laravelopenai",
   "description": "Package for Laravel openAI with cURL Api to get prompt request data.",
   "type": "library",
   "require": {
