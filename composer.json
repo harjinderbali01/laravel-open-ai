@@ -18,6 +18,9 @@
     }
   ],
   "minimum-stability": "dev",
+  "require-dev": {
+      "phpunit/phpunit": "^7"
+  },
   "autoload": {
     "psr-4": {
         "HarjinderBali01\\LaravelOpenAi\\": "src"
