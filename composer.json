@@ -20,7 +20,7 @@
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
-        "HarjinderBali01\\LaravelOpenAi\\": "src/"
+        "HarjinderBali01\\LaravelOpenAi\\": "src"
     }
   }
 }
