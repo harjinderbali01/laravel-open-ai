@@ -1,33 +1,34 @@
 {
-    "name": "harjinderbali01/laravel-open-ai",
-    "type": "library",
-    "description": "Package for Laravel openAI with cURL Api to get prompt request data.",
-    "keywords": [
-      "laravel",
-      "open-ai",
-      "curl",
-      "client",
-      "HTTP client",
-      "PSR-7"
-    ],
-    "license": "MIT",
-    "authors": [
-      {
-        "name": "Harjider Bali"
-      }
-    ],
-    "require": {
-      "php": "^7.2.5",
-      "guzzlehttp/guzzle": "^7.0.1",
-      "laravel/helpers": "^1.4",
-      "guzzlehttp/psr7": "^1.9 || ^2.4",
-      "psr/http-client": "^1.0",
-      "ext-json": "*",
-      "ext-curl": "*"
-    },
-    "autoload": {
-      "psr-4": {
-          "HarjinderBali\\LaravelOpenAi\\": "src"
-      }
+  "name": "harjinderbali01/laravel-open-ai",
+  "description": "Package for Laravel openAI with cURL Api to get prompt request data.",
+  "type": "library",
+  "keywords": [
+    "laravel",
+    "open-ai",
+    "curl",
+    "client",
+    "HTTP client",
+    "PSR-7"
+  ],
+  "require": {
+    "php": "^7.2.5",
+    "guzzlehttp/guzzle": "^7.0.1",
+    "laravel/helpers": "^1.4",
+    "guzzlehttp/psr7": "^1.9 || ^2.4",
+    "psr/http-client": "^1.0",
+    "ext-json": "*",
+    "ext-curl": "*"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Harjider Bali"
     }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+        "HarjinderBali01\\LaravelOpenAi\\": "src/"
+    }
+  }
 }

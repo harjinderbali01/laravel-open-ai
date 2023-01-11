@@ -28,12 +28,12 @@ Make the following changes to the main configuration file located at `config/app
 ```php
 'providers' => [
    ...
-   LaravelOpenAi\Providers\LaravelOpenAiServiceProvider::class
+   HarjinderBali01\LaravelOpenAi\Providers\LaravelOpenAiServiceProvider::class
 ],
 
 'aliases' => [
    ...
-   'OpenAi' => LaravelOpenAi\Facades\LaravelOpenAiFacade::class
+   'OpenAi' => HarjinderBali01\LaravelOpenAi\Facades\LaravelOpenAiFacade::class
 ]
 ```
 

@@ -1,8 +1,8 @@
 <?php
 
-namespace HarjinderBali\LaravelOpenAi\Providers;
+namespace HarjinderBali01\LaravelOpenAi\Providers;
 
-use HarjinderBali\LaravelOpenAi\OpenAi;
+use HarjinderBali01\LaravelOpenAi\OpenAi;
 use Illuminate\Support\ServiceProvider;
 
 class OpenAiServiceProvider extends ServiceProvider

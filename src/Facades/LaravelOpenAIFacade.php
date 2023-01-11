@@ -1,6 +1,6 @@
 <?php
 
-namespace HarjinderBali\LaravelOpenAi\Facades;
+namespace HarjinderBali01\LaravelOpenAi\Facades;
 
 use \Illuminate\Support\Facades\Facade;
 

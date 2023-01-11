@@ -1,6 +1,6 @@
 <?php
 
-namespace HarjinderBali\LaravelOpenAi;
+namespace HarjinderBali01\LaravelOpenAi;
 
 use Illuminate\Support\Str;
 
