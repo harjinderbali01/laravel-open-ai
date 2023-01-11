@@ -12,7 +12,17 @@ class OpenAi
      */
     public function __construct()
     {
-        dd('Open AI')
+        //
+    }
+
+    /**
+     *
+     * @return bool|string
+     */
+    public function start()
+    {
+
+        return 'You are in open Ai';
     }
 
 }
